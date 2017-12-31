@@ -18,4 +18,3 @@ pwd : Get the current directory </br>
 >> : Append on a file </br>
 date : Get the current date </br>
 args : Get the Command arguments </br>
-Grade was (45.5/50) 
